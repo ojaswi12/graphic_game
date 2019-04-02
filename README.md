@@ -1,7 +1,7 @@
-Graphics Boilerplate Code
+Graphics Game
 =========================
 
-This is boilerplate code for the assignments which might be helpful.
+This game is made using opengl
 
 
 License
