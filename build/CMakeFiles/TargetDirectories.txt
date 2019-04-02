@@ -1,0 +1,3 @@
+/home/jadouche/college shit/graphics/1/graphics-boilerplate-master/build/CMakeFiles/edit_cache.dir
+/home/jadouche/college shit/graphics/1/graphics-boilerplate-master/build/CMakeFiles/rebuild_cache.dir
+/home/jadouche/college shit/graphics/1/graphics-boilerplate-master/build/CMakeFiles/graphics_asgn1.dir
